@@ -1,42 +1,8 @@
-<!-- (setq markdown-xhtml-header-content
-"<style type='text/css'>
-  .rainbow-button {
-  width:calc(20vw + 6px);
-  height:calc(8vw + 6px);
-  background-image: linear-gradient(90deg, #00C0FF 0%, #FFCF00 49%, #FC4F4F 80%, #00C0FF 100%);
-  border-radius:5px;
-  display:flex;
-  align-items:center;
-  justify-content:center;
-  text-transform:uppercase;
-  font-size:3vw;
-  font-weight:bold;
-}
-.rainbow-button:after {
-  content:attr(alt);
-  width:20vw;
-  height:8vw;
-  background-color:#191919;
-  display:flex;
-  align-items:center;
-  justify-content:center;
-}
-.rainbow-button:hover {
-  animation:slidebg 2s linear infinite;
-}
-
-@keyframes slidebg {
-  to {
-    background-position:20vw;
-  }
-}
-</style>")
--->
 <img src="./img/header.jpg">
 
 ### Hi there, I'm Alec 👋
 
-I'm a software developer that enjoys building, solving, understanding and, above all, pretty buttons.
+I'm a software developer that enjoys building, solving, understanding and, above all, <a color="white" background="linear-gradient(135deg, #6e8efb, #a777e3)" border-radius="4px" position="relative"	display="inline-block" padding="1.2em 2em">pretty buttons.</a>
 
 ## Here's some technologies I enjoy
 
