@@ -1,4 +1,5 @@
-<style>
+(setq markdown-xhtml-header-content
+"<style type='text/css'>
   .rainbow-button {
   width:calc(20vw + 6px);
   height:calc(8vw + 6px);
@@ -29,7 +30,7 @@
     background-position:20vw;
   }
 }
-</style>
+</style>")
 
 <img src="./img/header.jpg">
 
