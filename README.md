@@ -1,9 +1,3 @@
-<img src="./img/header.jpg">
-
-### Hi there, I'm Alec 👋
-
-I'm a software developer that enjoys building, solving, understanding and, above all, <a>pretty buttons.</a>
-
 <style>
   .rainbow-button {
   width:calc(20vw + 6px);
@@ -36,6 +30,12 @@ I'm a software developer that enjoys building, solving, understanding and, above
   }
 }
 </style>
+
+<img src="./img/header.jpg">
+
+### Hi there, I'm Alec 👋
+
+I'm a software developer that enjoys building, solving, understanding and, above all, <a href="#" class="rainbow-button" alt="Button">Pretty Buttons</a>
 
 ## Here's some technologies I enjoy
 
