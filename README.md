@@ -1,4 +1,4 @@
-(setq markdown-xhtml-header-content
+<!-- (setq markdown-xhtml-header-content
 "<style type='text/css'>
   .rainbow-button {
   width:calc(20vw + 6px);
@@ -31,12 +31,12 @@
   }
 }
 </style>")
-
+-->
 <img src="./img/header.jpg">
 
 ### Hi there, I'm Alec 👋
 
-I'm a software developer that enjoys building, solving, understanding and, above all, <a href="#" class="rainbow-button" alt="Button">Pretty Buttons</a>
+I'm a software developer that enjoys building, solving, understanding and, above all, pretty buttons.
 
 ## Here's some technologies I enjoy
 
@@ -64,4 +64,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
---
+-->
